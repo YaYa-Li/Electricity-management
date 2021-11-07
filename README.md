@@ -1,0 +1,2 @@
+# Electricity-management
+Ajusted template
